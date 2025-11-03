@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @SaschaWeinmann
 - 👀 I’m interested in Agile, Poker, High quality.
-- 🌱 I’m currently learning to say less and be patient.
-- 💞️ I’m looking to collaborate on Poker Training Software.
 - 📫 How to reach me: hi@saschaw.de
 
 <!---
